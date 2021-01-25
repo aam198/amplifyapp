@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>Added Auth :D </h1> 
+        <h1>Added AWS  Auth  </h1> 
         <a
           className="App-link"
           href="https://reactjs.org"
